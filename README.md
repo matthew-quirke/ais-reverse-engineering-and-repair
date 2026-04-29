@@ -19,7 +19,7 @@ The focus throughout is on **real-world system behaviour**, rather than purely t
 - 2250 timeslots (~26.67 ms per slot)
 
 ### AIS Classes
-- **SOTDMA** (Class A)
+- **SOTDMA** (Class A / B+)
 - **CSTDMA** (Class B)
 
 ### Key Investigations
