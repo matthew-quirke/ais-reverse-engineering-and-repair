@@ -139,6 +139,8 @@ Investigated low-cost AIS transceivers:
 
 ## Embedded Systems Repair & Development
 
+![STM32F103 - CMX7042](images/hardware/stm32f103-cmx7042.jpg)
+
 ### Platform
 - STM32F103 (later migrated to ESP32)
 - CMX7042-type RF/baseband architecture
