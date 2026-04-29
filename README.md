@@ -163,7 +163,7 @@ Investigated low-cost AIS transceivers:
 ## MAIANA AIS Project – Hardware Improvements
 
 ### Issues Identified
-- PCB layout flaws
+- Component Symbol layout issues
 - Signal integrity problems
 - Component obsolescence
 
