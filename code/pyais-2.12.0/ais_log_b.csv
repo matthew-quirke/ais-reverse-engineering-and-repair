@@ -1,0 +1,391 @@
+Date,Time,Data,MMSI,Type,Message,NMEA,Slot,Slots
+Tue Jul 22 2025,21:00:33,607a12602424e4d0252140000000000000000000,512006153,Static data report,"Name: INSPIRE","!AIVDM,1,1,,,H7`BH2@Tq=0U8D0000000000000,2*33
+",1240,1
+Tue Jul 22 2025,21:00:36,487a127a4c000032b12a075d44dedd9ffc874e0006,512007827,Standard Class B equipment position report,"Lat: -17.7746° Lon: 177.182° Speed: 0 knts Course: 354.5°","!AIVDM,1,1,,,B7`BNTh003:i:PMMA=sMWwj7CP06,0*62
+",1377,1
+Tue Jul 22 2025,21:00:40,604052fae05013413873e0c80000000000000000,269795000,Static data report,"Name: TAMANGO 2","!AIVDM,1,1,,,H41Bvf1@4l4pLv3800000000000,2*16
+",1506,1
+Tue Jul 22 2025,21:00:43,607a126025244d25042c739a345cb0c770301c3100,512006153,Static data report,"Type: Vessel - Sailing Vendor ID: SRTDKGN Callsign: ZME2017","!AIVDM,1,1,,,H7`BH2DTCBD4;7>J=5jhio0h7340,0*0d
+",1646,1
+Tue Jul 22 2025,21:00:57,483c850ac00001b2b19dc75d49e4a60fff25de0006,253838000,Standard Class B equipment position report,"Lat: -17.7724° Lon: 177.188° Speed: 0.1 knts Course: 265.6°","!AIVDM,1,1,,,B3j52d000K:iWLMMBNBV3wtUoP06,0*68
+",2164,1
+Tue Jul 22 2025,21:01:21,484052fae0000032b1342f5d45e0e10ffaa1c933ca,269795000,Standard Class B equipment position report,"Lat: -17.7741° Lon: 177.182° Speed: 0 knts Course: 360°","!AIVDM,1,1,,,B41Bvf0003:i=2uMAN3Q3wbQjC?:,0*23
+",801,1
+Tue Jul 22 2025,21:01:25,047bbd223000c0032b07e7f5d529632e13320008b4,518998156,Position report (Scheduled),"Lat: -17.7687° Lon: 177.172° Speed: 0 knts Course: 81.4° Status: Under way using engine","!AIVDM,1,1,,,17fu8S00h0<c1vOmmBUS;Q<j00Rl,0*50
+",942,1
+Tue Jul 22 2025,21:01:35,4850ae1eec0001b2b1aa875d4bade10ffc61d94c6a,338397115,Standard Class B equipment position report,"Lat: -17.7717° Lon: 177.188° Speed: 0.1 knts Course: 360°","!AIVDM,1,1,,,B52f7fh00K:ib`MMBroQ3wiQnDib,0*34
+",1341,1
+Tue Jul 22 2025,21:01:36,604052fae1245c400401cdc8099cf1c390402030c4,269795000,Static data report,"Type: Vessel - Sailing Vendor ID: WD@D@\7 Callsign: HBY3109","!AIVDM,1,1,,,H41Bvf4TG4040Lo82Ikihq108334,0*29
+",1376,1
+Tue Jul 22 2025,21:01:37,487a12a4dc0000b2b192a75d4ab8e10ff8c5de0006,512010551,Standard Class B equipment position report,"Lat: -17.7721° Lon: 177.187° Speed: 0 knts Course: 360°","!AIVDM,1,1,,,B7`Ba=h00;:iTbMMBcSQ3wS5oP06,0*62
+",1415,1
+Tue Jul 22 2025,21:01:40,483e456af80000b2b158c75d48940b98ed01c9487a,261184190,Standard Class B equipment position report,"Lat: -17.773° Lon: 177.184° Speed: 0 knts Course: 18.5°","!AIVDM,1,1,,,B3q5JgP00;:iF<MMB9@;V>l1jDQr,0*05
+",1507,1
+Tue Jul 22 2025,21:01:44,6050ae1eec0cf1042573cd40c140000000000000,338397115,Static data report,"Name: CODDIWOMPLE","!AIVDM,1,1,,,H52f7fh<t@@ULtm0hD000000000,2*11
+",1655,1
+Tue Jul 22 2025,21:02:03,047bbd22303e00032b07ebf5d52a032e1288018085,518998156,Position report (Scheduled),"Lat: -17.7687° Lon: 177.172° Speed: 0 knts Course: 81.4° Status: Under way using engine","!AIVDM,1,1,,,17fu8S0v00<c1vgmmB`3;Q:80H25,0*26
+",135,1
+Tue Jul 22 2025,21:02:08,4877f05e200000b2b190a75d4d66e10ff905de0006,503060360,Standard Class B equipment position report,"Lat: -17.7709° Lon: 177.187° Speed: 0 knts Course: 360°","!AIVDM,1,1,,,B7OhGR000;:iT:MMCFKQ3wT5oP06,0*15
+",316,1
+Tue Jul 22 2025,21:02:15,487a128ba8000032b1bdc75d4f3d132ff9e54e0006,512008938,Standard Class B equipment position report,"Lat: -17.7701° Lon: 177.189° Speed: 0 knts Course: 30.6°","!AIVDM,1,1,,,B7`BRrP003:igLMMCklC;wWUCP06,0*57
+",593,1
+Tue Jul 22 2025,21:02:23,607a12a76c50580b24e1c1000000000000000000,512010715,Static data report,"Name: TE KINGA","!AIVDM,1,1,,,H7`Bani@F0dTpL4000000000000,2*50
+",891,1
+Tue Jul 22 2025,21:02:24,607a12a76d2500000000001a350e75df9000000000,512010715,Static data report,"Type: Vessel - Pleasure craft Vendor ID:  Callsign: ZMP9579","!AIVDM,1,1,,,H7`BanlU0000000J=@qmoq000000,0*09
+",926,1
+Tue Jul 22 2025,21:02:40,6050ae1eed244d2508b2a7800000000000301820bc,338397115,Static data report,"Type: Vessel - Sailing Vendor ID: SRTH,*^ Callsign: ","!AIVDM,1,1,,,H52f7flTCBD8dbN00000000h622t,0*38
+",1512,1
+Tue Jul 22 2025,21:02:50,603808607434910e24721480248515a140000000,235018269,Static data report,"Name: MIDNIGHT BREEZE","!AIVDM,1,1,,,H3P8H7@lT@pTLQB098DE`D00000,2*6e
+",1888,1
+Tue Jul 22 2025,21:02:57,4857d67e800001b2b17d6f5d4bb75cdfff25de0006,368418720,Standard Class B equipment position report,"Lat: -17.7716° Lon: 177.186° Speed: 0.1 knts Course: 148.5°","!AIVDM,1,1,,,B5OFO`000K:iOFuMBsMLowtUoP06,0*1f
+",2149,1
+Tue Jul 22 2025,21:03:03,047bbd22303e00032b07eb75d529db74110801401e,518998156,Position report (Scheduled),"Lat: -17.7687° Lon: 177.172° Speed: 0 knts Course: 293.2° Status: Under way using engine","!AIVDM,1,1,,,17fu8S0v00<c1vemmBWKM1480D0N,0*06
+",137,1
+Tue Jul 22 2025,21:03:04,4877f7bc880001b2b15abf5d593de10ff885de0006,503181090,Standard Class B equipment position report,"Lat: -17.7659° Lon: 177.184° Speed: 0.1 knts Course: 360°","!AIVDM,1,1,,,B7Oog8P00K:iFcuMFCoQ3wR5oP06,0*19
+",168,1
+Tue Jul 22 2025,21:03:06,4838086074000032b194575d4920e10ff8c1c94faa,235018269,Standard Class B equipment position report,"Lat: -17.7727° Lon: 177.187° Speed: 0 knts Course: 360°","!AIVDM,1,1,,,B3P8H7@003:iU5MMBB3Q3wS1jDvb,0*3f
+",252,1
+Tue Jul 22 2025,21:03:12,487a1260240001b2b179075d4a5b8f0ff965de0006,512006153,Standard Class B equipment position report,"Lat: -17.7722° Lon: 177.186° Speed: 0.1 knts Course: 228.8°","!AIVDM,1,1,,,B7`BH2@00K:iN@MMBUf?3wUUoP06,0*2f
+",450,1
+Tue Jul 22 2025,21:03:19,4877f04ed00001b2b142bf5d44f7018ffa65de0006,503059380,Standard Class B equipment position report,"Lat: -17.7745° Lon: 177.183° Speed: 0.1 knts Course: 2.4°","!AIVDM,1,1,,,B7OhCe000K:i@cuMA?L1SwaUoP06,0*0a
+",733,1
+Tue Jul 22 2025,21:03:33,607a12614848854d8033c33c0000000000000000,512006226,Static data report,"Name: RHUM COCO","!AIVDM,1,1,,,H7`BHDQ8QDn0<t<t00000000000,2*26
+",1261,1
+Tue Jul 22 2025,21:03:41,603e456af83855e02c1505000000000000000000,261184190,Static data report,"Name: NEW KATE","!AIVDM,1,1,,,H3q5JgPpEN0d5@D000000000000,2*39
+",1548,1
+Tue Jul 22 2025,21:03:42,603e456af9255934140873534b4c79c000401c308c,261184190,Static data report,"Type: Vessel - Pleasure craft Vendor ID: VSPTBGM Callsign: SR4190","!AIVDM,1,1,,,H3q5JgTUFC@D27=CBliqh010732<,0*6b
+",1586,1
+Tue Jul 22 2025,21:03:44,607a126149243960c4928a5a345cb4c33050104100,512006226,Static data report,"Type: Vessel - Sailing Vendor ID: NVCD$() Callsign: ZME2403","!AIVDM,1,1,,,H7`BHDTT>F34T`aJ=5jlhk1@4440,0*2e
+",1682,1
+Tue Jul 22 2025,21:03:46,6038086075244cd504d2164d15923300003818403c,235018269,Static data report,"Type: Vessel - Sailing Vendor ID: SMTD4!Y Callsign: MEYH3","!AIVDM,1,1,,,H3P8H7DTC=D4lQI=5I8k000p640t,0*75
+",1753,1
+Tue Jul 22 2025,21:03:53,487a1261480002b2b1485f5d468bcf5ffea5de0006,512006226,Standard Class B equipment position report,"Lat: -17.7738° Lon: 177.183° Speed: 0.2 knts Course: 331.7°","!AIVDM,1,1,,,B7`BHDP00c:iB5uMA`g?GwrUoP06,0*44
+",2018,1
+Tue Jul 22 2025,21:04:17,487a12535c0000b2b1a8275d4d5ed46ffa25de0006,512005335,Standard Class B equipment position report,"Lat: -17.7709° Lon: 177.188° Speed: 0 knts Course: 339.8°","!AIVDM,1,1,,,B7`BDmh00;:ib2MMCEsDKw`UoP06,0*48
+",658,1
+Tue Jul 22 2025,21:04:38,60781a24804ee5ae2c9505000000000000000000,503744800,Static data report,"Name: S.V.KITE","!AIVDM,1,1,,,H7PJ981>qJpdU@D000000000000,2*70
+",1452,1
+Tue Jul 22 2025,21:04:50,603750e1d814c653140000000000000000000000,232011894,Static data report,"Name: ELYSE","!AIVDM,1,1,,,H3M@pMPDiU<D000000000000000,2*4e
+",1911,1
+Tue Jul 22 2025,21:05:10,48781a2480000132b117875d55d7e10ff921c9490a,503744800,Standard Class B equipment position report,"Lat: -17.7673° Lon: 177.181° Speed: 0.1 knts Course: 360°","!AIVDM,1,1,,,B7PJ98000C:i5pMMEMOQ3wTQjDT:,0*7b
+",378,1
+Tue Jul 22 2025,21:05:24,047bbd22303f80032b07ecf5d5292b740fb2008395,518998156,Position report (Scheduled),"Lat: -17.7687° Lon: 177.172° Speed: 0 knts Course: 293.2° Status: Under way using engine","!AIVDM,1,1,,,17fu8S0wP0<c1vkmmBTcM0vj08>E,0*2a
+",918,1
+Tue Jul 22 2025,21:05:24,487a12a76c000032b182b75d4a8fcbeffae5ce0006,512010715,Standard Class B equipment position report,"Lat: -17.7721° Lon: 177.186° Speed: 0 knts Course: 326.2°","!AIVDM,1,1,,,B7`Banh003:iPcMMB`w;swcUkP06,0*65
+",922,1
+Tue Jul 22 2025,21:05:35,60781a2481244d25094a3bc1143c7344000000003c,503744800,Static data report,"Type: Vessel - Sailing Vendor ID: SRTIR#/ Callsign: AEC13Q","!AIVDM,1,1,,,H7PJ984TCBD9BSg153ikA000000t,0*69
+",1332,1
+Tue Jul 22 2025,21:05:42,487a124738000032b157875d47299f4ffd45ce0006,512004558,Standard Class B equipment position report,"Lat: -17.7736° Lon: 177.184° Speed: 0 knts Course: 254.8°","!AIVDM,1,1,,,B7`BAkP003:iEpMMAjVOCwm5kP06,0*7c
+",1598,1
+Tue Jul 22 2025,21:05:44,047bbd22303f40032b07ebf5d5294b74105a0008e6,518998156,Position report (Scheduled),"Lat: -17.7687° Lon: 177.172° Speed: 0 knts Course: 293.2° Status: Under way using engine","!AIVDM,1,1,,,17fu8S0w@0<c1vgmmBU;M11J00SV,0*7f
+",1665,1
+Tue Jul 22 2025,21:05:47,603750e1d9244cd505e6524d0c167300004020307c,232011894,Static data report,"Type: Vessel - Sailing Vendor ID: SMTE9%I Callsign: MCAY3","!AIVDM,1,1,,,H3M@pMTTC=D5qU9=31Ik0010831t,0*6c
+",1781,1
+Tue Jul 22 2025,21:05:48,483750e1d8000132b184775d47c4e10ffe01c944fa,232011894,Standard Class B equipment position report,"Lat: -17.7733° Lon: 177.186° Speed: 0.1 knts Course: 360°","!AIVDM,1,1,,,B3M@pMP00C:iQ7MMAtCQ3wp1jDCr,0*3d
+",1827,1
+Tue Jul 22 2025,21:06:02,0c7bbd39a84000132b0b6ef5d52977901876014e6a,518999658,Position report (Interrogated),"Lat: -17.7687° Lon: 177.175° Speed: 0.1 knts Course: 193.6° Status: At anchor","!AIVDM,1,1,,,37fu>JQ001<c2nsmmBUoT1Qn0Dqb,0*51
+",76,1
+Tue Jul 22 2025,21:06:14,487a125674000032b196275d4e420b0ff9a5ce0006,512005533,Standard Class B equipment position report,"Lat: -17.7706° Lon: 177.187° Speed: 0 knts Course: 17.6°","!AIVDM,1,1,,,B7`BEW@003:iURMMCT8;3wVUkP06,0*6b
+",524,1
+Tue Jul 22 2025,21:06:20,4877f7c1380003b2b124b75d432ddacffa65de0006,503181390,Standard Class B equipment position report,"Lat: -17.7753° Lon: 177.181° Speed: 0.3 knts Course: 350°","!AIVDM,1,1,,,B7OohCP00s:i9;MM@joJkwaUoP06,0*75
+",750,1
+Tue Jul 22 2025,21:06:23,607a124738341827801481000000000000000000,512004558,Static data report,"Name: MA ' ARA","!AIVDM,1,1,,,H7`BAkPl62N0584000000000000,2*6d
+",876,1
+Tue Jul 22 2025,21:06:23,607a1247392500000000001a355df0cb0078005000,512004558,Static data report,"Type: Vessel - Pleasure craft Vendor ID:  Callsign: ZMU7020","!AIVDM,1,1,,,H7`BAkTU0000000J=Eohjh1p0500,0*52
+",893,1
+Tue Jul 22 2025,21:06:27,603753bd0c4d98086501521c1359000000000000,232058691,Static data report,"Name: SY HYPERGAMY","!AIVDM,1,1,,,H3MCg@i=V0QU0E8L4mT00000000,2*0d
+",1046,1
+Tue Jul 22 2025,21:06:28,603753bd0d255934140b35cd48b2f900002030514c,232058691,Static data report,"Type: Vessel - Pleasure craft Vendor ID: VSPTB3W Callsign: MRKK9","!AIVDM,1,1,,,H3MCg@lUFC@D2kG=B;;q000P<55<,0*7d
+",1075,1
+Tue Jul 22 2025,21:06:37,487a127a4c000132b128c75d44d7dd9ffca74e0006,512007827,Standard Class B equipment position report,"Lat: -17.7746° Lon: 177.181° Speed: 0.1 knts Course: 354.5°","!AIVDM,1,1,,,B7`BNTh00C:i:<MMA=OMWwjWCP06,0*22
+",1415,1
+Tue Jul 22 2025,21:06:57,483c850ac00001b2b19db75d49dca60fff25de0006,253838000,Standard Class B equipment position report,"Lat: -17.7724° Lon: 177.188° Speed: 0.1 knts Course: 265.6°","!AIVDM,1,1,,,B3j52d000K:iWKMMBMjV3wtUoP06,0*44
+",2144,1
+Tue Jul 22 2025,21:07:11,484052fae0000032b133af5d45ede10ff941c98e7a,269795000,Standard Class B equipment position report,"Lat: -17.7741° Lon: 177.182° Speed: 0 knts Course: 360°","!AIVDM,1,1,,,B41Bvf0003:i<ruMANoQ3wU1jHqr,0*64
+",414,1
+Tue Jul 22 2025,21:07:16,607a1256745c124e04e240000000000000000000,512005533,Static data report,"Name: WAINANI","!AIVDM,1,1,,,H7`BEWAL4Tp4pT0000000000000,2*17
+",630,1
+Tue Jul 22 2025,21:07:18,607a125675241c148d24e01a346cf6e73048184040,512005533,Static data report,"Type: Vessel - Sailing Vendor ID: GARMIN Callsign: ZMF3693","!AIVDM,1,1,,,H7`BEWDT71B=9>0J=6knqk186410,0*22
+",691,1
+Tue Jul 22 2025,21:07:21,607a128ba808c54580f0c504e4c0000000000000,512008938,Static data report,"Name: BLUE OCEANS","!AIVDM,1,1,,,H7`BRrP8iDF0t<D4q<000000000,2*6e
+",813,1
+Tue Jul 22 2025,21:07:21,607a128ba925593400526e9a357d34c30068005000,512008938,Static data report,"Type: Vessel - Pleasure craft Vendor ID: VSP@T&: Callsign: ZMW4400","!AIVDM,1,1,,,H7`BRrTUFC@0DVrJ=Gllhh1`0500,0*6a
+",817,1
+Tue Jul 22 2025,21:07:24,6077f05e204d5405482820820820820820820820,503060360,Static data report,"Name: SUPERB","!AIVDM,1,1,,,H7OhGR1=E0E8:22222222222220,2*14
+",921,1
+Tue Jul 22 2025,21:07:29,6077f05e212404d0c00000135501520a00500811bc,503060360,Static data report,"Type: Vessel - Sailing Vendor ID: AMC Callsign: SUPERB","!AIVDM,1,1,,,H7OhGR4T1=30000CE@5B2P1@216t,0*16
+",1098,1
+Tue Jul 22 2025,21:07:36,4850ae1eec0001b2b1aa675d4bb1e10ffc61d94a4a,338397115,Standard Class B equipment position report,"Lat: -17.7717° Lon: 177.188° Speed: 0.1 knts Course: 360°","!AIVDM,1,1,,,B52f7fh00K:ibVMMBs7Q3wiQnDa:,0*0b
+",1350,1
+Tue Jul 22 2025,21:07:37,487a12a4dc0000b2b192e75d4ab3e10ff8c5de0006,512010551,Standard Class B equipment position report,"Lat: -17.7721° Lon: 177.187° Speed: 0 knts Course: 360°","!AIVDM,1,1,,,B7`Ba=h00;:iTfMMBc?Q3wS5oP06,0*0a
+",1414,1
+Tue Jul 22 2025,21:07:38,483e456af8000032b158cf5d48a20b9824c1c93e4a,261184190,Standard Class B equipment position report,"Lat: -17.773° Lon: 177.184° Speed: 0 knts Course: 18.5°","!AIVDM,1,1,,,B3q5JgP003:iF<uMB:8;V2C1jCq:,0*02
+",1453,1
+Tue Jul 22 2025,21:07:45,047bbd22303f00032b07ec75d5290b74115a01401c,518998156,Position report (Scheduled),"Lat: -17.7687° Lon: 177.172° Speed: 0 knts Course: 293.2° Status: Under way using engine","!AIVDM,1,1,,,17fu8S0w00<c1vimmBT;M15J0D0L,0*09
+",1693,1
+Tue Jul 22 2025,21:08:02,6077f7bc884c13148132012c54a0249820820820,503181090,Static data report,"Name: SALT SHAKER II","!AIVDM,1,1,,,H7Oog8Q<4iB1<P4dE:0TV222220,2*55
+",100,1
+Tue Jul 22 2025,21:08:03,0c7bbd22303f00032b07e9f5d5291b741188006513,518998156,Position report (Interrogated),"Lat: -17.7687° Lon: 177.172° Speed: 0 knts Course: 293.2° Status: Under way using engine","!AIVDM,1,1,,,37fu8S0w00<c1vWmmBTKM16806DC,0*3d
+",133,1
+Tue Jul 22 2025,21:08:07,6077f7bc892404d0c0000038db3d71d200501450bc,503181090,Static data report,"Type: Vessel - Sailing Vendor ID: AMC Callsign: 863514","!AIVDM,1,1,,,H7Oog8TT1=30000pnkmilP1@552t,0*22
+",265,1
+Tue Jul 22 2025,21:08:07,4877f05e200000b2b190cf5d4d61e10ff8e5de0006,503060360,Standard Class B equipment position report,"Lat: -17.7709° Lon: 177.187° Speed: 0 knts Course: 360°","!AIVDM,1,1,,,B7OhGR000;:iT<uMCF7Q3wSUoP06,0*30
+",292,1
+Tue Jul 22 2025,21:08:15,487a128ba8000132b1bdc75d4f45132ff9e54e0006,512008938,Standard Class B equipment position report,"Lat: -17.7701° Lon: 177.189° Speed: 0.1 knts Course: 30.6°","!AIVDM,1,1,,,B7`BRrP00C:igLMMClDC;wWUCP06,0*08
+",578,1
+Tue Jul 22 2025,21:08:26,6057d67e80641341c40000000000000000000000,368418720,Static data report,"Name: YAMA1","!AIVDM,1,1,,,H5OFO`1T4l74000000000000000,2*30
+",995,1
+Tue Jul 22 2025,21:08:36,6077f04ed04cc2504054998076504d9000000000,503059380,Static data report,"Name: SLIPPERY GYPSY","!AIVDM,1,1,,,H7OhCe1<hU10E9V0MU1=T000000,2*70
+",1368,1
+Tue Jul 22 2025,21:08:36,6057d67e81244d25057e2bd7111cf6d37048103100,368418720,Static data report,"Type: Vessel - Sailing Vendor ID: SRTE_"/ Callsign: WDQ3647","!AIVDM,1,1,,,H5OFO`4TCBD5ORgG4Aknlo184340,0*68
+",1374,1
+Tue Jul 22 2025,21:08:39,6077f7c138201410640000000000000000000000,503181390,Static data report,"Name: HAPPY","!AIVDM,1,1,,,H7OohCPP511T000000000000000,2*40
+",1491,1
+Tue Jul 22 2025,21:08:46,6077f04ed1243960c6f98ed31f8c40000000000000,503059380,Static data report,"Type: Vessel - Sailing Vendor ID: NVCF>X; Callsign: SG81","!AIVDM,1,1,,,H7OhCe4T>F36vHsC7pi000000000,0*14
+",1753,1
+Tue Jul 22 2025,21:08:49,607a12535c34f3ce1894c8000000000000000000,512005335,Static data report,"Name: MOONFISH","!AIVDM,1,1,,,H7`BDmhlttpHU<P000000000000,2*14
+",1837,1
+Tue Jul 22 2025,21:08:50,6077f7c139243960c4f34702515c354400381c4100,503181390,Static data report,"Type: Vessel - Sailing Vendor ID: NVCD<4\ Callsign: BTU05Q","!AIVDM,1,1,,,H7OohCTT>F34tlL2DEhmA00p7440,0*38
+",1896,1
+Tue Jul 22 2025,21:08:58,4857d67e800001b2b17f475d4b4e5cdfff45de0006,368418720,Standard Class B equipment position report,"Lat: -17.7718° Lon: 177.186° Speed: 0.1 knts Course: 148.5°","!AIVDM,1,1,,,B5OFO`000K:iOlMMBlqLowu5oP06,0*4f
+",2199,1
+Tue Jul 22 2025,21:08:59,607a12535d254d2505387b1a347cf2c33000000000,512005335,Static data report,"Type: Vessel - Pleasure craft Vendor ID: SRTENG, Callsign: ZMG3203","!AIVDM,1,1,,,H7`BDmlUCBD5>7dJ=7kjhk000000,0*75
+",2215,1
+Tue Jul 22 2025,21:09:00,483753bd0c000132b107a75d41da6b28b001c93cea,232058691,Standard Class B equipment position report,"Lat: -17.7759° Lon: 177.18° Speed: 0.1 knts Course: 171.4°","!AIVDM,1,1,,,B3MCg@h00C:i1rMM@Mac:;01jCkb,0*2b
+",4,1
+Tue Jul 22 2025,21:09:01,4877f7bc880001b2b15ac75d593be10ff825de0006,503181090,Standard Class B equipment position report,"Lat: -17.7659° Lon: 177.184° Speed: 0.1 knts Course: 360°","!AIVDM,1,1,,,B7Oog8P00K:iFdMMFCgQ3wPUoP06,0*4c
+",55,1
+Tue Jul 22 2025,21:09:08,4838086074000132b1942f5d4933e10ff901c946ea,235018269,Standard Class B equipment position report,"Lat: -17.7727° Lon: 177.187° Speed: 0.1 knts Course: 360°","!AIVDM,1,1,,,B3P8H7@00C:iU2uMBC?Q3wT1jDKb,0*47
+",309,1
+Tue Jul 22 2025,21:09:12,487a1260240000b2b1792f5d4a538f0ff985de0006,512006153,Standard Class B equipment position report,"Lat: -17.7722° Lon: 177.186° Speed: 0 knts Course: 228.8°","!AIVDM,1,1,,,B7`BH2@00;:iNBuMBU>?3wV5oP06,0*5e
+",462,1
+Tue Jul 22 2025,21:09:16,4877f04ed00001b2b141ff5d44a77bdff9e5de0006,503059380,Standard Class B equipment position report,"Lat: -17.7747° Lon: 177.183° Speed: 0.1 knts Course: 198.1°","!AIVDM,1,1,,,B7OhCe000K:i@OuMA:MsowWUoP06,0*6a
+",605,1
+Tue Jul 22 2025,21:09:53,487a1261480003b2b1485f5d468fc6affea5de0006,512006226,Standard Class B equipment position report,"Lat: -17.7738° Lon: 177.183° Speed: 0.3 knts Course: 317.8°","!AIVDM,1,1,,,B7`BHDP00s:iB5uMA`w6cwrUoP06,0*69
+",1997,1
+Tue Jul 22 2025,21:09:56,607a12a4dc4014d340f494820820820820820820,512010551,Static data report,"Name: PASSPORT","!AIVDM,1,1,,,H7`Ba=i05==0u9B222222222220,2*34
+",2107,1
+Tue Jul 22 2025,21:09:56,603c850ac04cf3874d4152000000000000000000,253838000,Static data report,"Name: SONGSTER","!AIVDM,1,1,,,H3j52d1<tpM=@E8000000000000,2*53
+",2120,1
+Tue Jul 22 2025,21:09:59,607a12a4dd2504d0c000001a350e70d3400000003c,512010551,Static data report,"Type: Vessel - Pleasure craft Vendor ID: AMC Callsign: ZMP9044","!AIVDM,1,1,,,H7`Ba=lU1=30000J=@qhll00000t,0*0a
+",2235,1
+Tue Jul 22 2025,21:10:03,047bbd22303f80032b07e475d528bb74128801401c,518998156,Position report (Scheduled),"Lat: -17.7687° Lon: 177.172° Speed: 0 knts Course: 293.2° Status: Under way using engine","!AIVDM,1,1,,,17fu8S0wP0<c1vAmmBRsM1:80D0L,0*72
+",132,1
+Tue Jul 22 2025,21:10:06,603c850ac1254d40c636d88c615200000038142080,253838000,Static data report,"Type: Vessel - Pleasure craft Vendor ID: STCFM-" Callsign: LXUH","!AIVDM,1,1,,,H3j52d4UCD36=eR<HE80000p5220,0*00
+",248,1
+Tue Jul 22 2025,21:10:15,487a12535c0001b2b1a84f5d4d51d46ff9e5de0006,512005335,Standard Class B equipment position report,"Lat: -17.771° Lon: 177.188° Speed: 0.1 knts Course: 339.8°","!AIVDM,1,1,,,B7`BDmh00K:ib4uMCE7DKwWUoP06,0*75
+",595,1
+Tue Jul 22 2025,21:10:24,047bbd22303f80032b07def5d5288b7412b2005228,518998156,Position report (Scheduled),"Lat: -17.7687° Lon: 177.172° Speed: 0 knts Course: 293.2° Status: Under way using engine","!AIVDM,1,1,,,17fu8S0wP0<c1usmmBR;M1:j058`,0*0c
+",921,1
+Tue Jul 22 2025,21:10:45,047bbd22303f80032b07def5d5285b7412da00869d,518998156,Position report (Scheduled),"Lat: -17.7687° Lon: 177.172° Speed: 0 knts Course: 293.2° Status: Under way using engine","!AIVDM,1,1,,,17fu8S0wP0<c1usmmBQKM1;J08JM,0*0c
+",1691,1
+Tue Jul 22 2025,21:10:54,487a12119c000132b0ff275d3a95be463ec1c9431a,512001127,Standard Class B equipment position report,"Lat: -17.779° Lon: 177.179° Speed: 0.1 knts Course: 304.4°","!AIVDM,1,1,,,B7`B4Ih00C:hwjMM>aFvASs1jD<J,0*4e
+",2031,1
+Tue Jul 22 2025,21:11:02,147bbd39aa025718bc5d55d76cf850816008505350000000000000000025090586185e177860d04c3cc3c000000000000000000000,518999658,Ship static and voyage related data,"IMO: 9815599 Callsign: E5U5638 Name: THE BEAST Type: Vessel - Pleasure craft Destination: MALOLO","!AIVDM,2,1,1,,57fu>J`2EiRtGEGGK?Q@PF08D5=@00000000000U2@F665pGN63@C3k3h0000,0*05
+!AIVDM,2,2,1,,0000000000,2*54
+",83,2
+Tue Jul 22 2025,21:11:08,48781a2480000232b117775d55bae10ff901c94b4a,503744800,Standard Class B equipment position report,"Lat: -17.7674° Lon: 177.181° Speed: 0.2 knts Course: 360°","!AIVDM,1,1,,,B7PJ98000S:i5oMMEKcQ3wT1jDe:,0*0f
+",331,1
+Tue Jul 22 2025,21:11:25,487a12a76c000032b182975d4a89a74ffb05ce0006,512010715,Standard Class B equipment position report,"Lat: -17.7721° Lon: 177.186° Speed: 0 knts Course: 267.6°","!AIVDM,1,1,,,B7`Banh003:iPaMMB`VWCwd5kP06,0*7d
+",942,1
+Tue Jul 22 2025,21:11:41,487a124738000032b157b75d473dd5fffd25ce0006,512004558,Standard Class B equipment position report,"Lat: -17.7736° Lon: 177.184° Speed: 0 knts Course: 342.3°","!AIVDM,1,1,,,B7`BAkP003:iEsMMAkoEwwlUkP06,0*18
+",1555,1
+Tue Jul 22 2025,21:11:42,607a127a4c2092810cb152000000000000000000,512007827,Static data report,"Name: HIJACKER","!AIVDM,1,1,,,H7`BNThPT`4<dE8000000000000,2*3f
+",1601,1
+Tue Jul 22 2025,21:11:42,607a127a4d255934043bde1a358cf5d34000000000,512007827,Static data report,"Type: Vessel - Pleasure craft Vendor ID: VSPDN=8 Callsign: ZMX3544","!AIVDM,1,1,,,H7`BNTlUFC@4>upJ=Hkmll000000,0*6a
+",1609,1
+Tue Jul 22 2025,21:11:45,483750e1d8000132b183e75d47b4e10ffda1c94f8a,232011894,Standard Class B equipment position report,"Lat: -17.7734° Lon: 177.186° Speed: 0.1 knts Course: 360°","!AIVDM,1,1,,,B3M@pMP00C:iPvMMAsCQ3wnQjDv:,0*79
+",1717,1
+Tue Jul 22 2025,21:12:03,0c7bbd39a84000132b0b6ef5d5281833110001491a,518999658,Position report (Interrogated),"Lat: -17.7687° Lon: 177.175° Speed: 0.1 knts Course: 209.9° Status: At anchor","!AIVDM,1,1,,,37fu>JQ001<c2nsmmBPH<i400DTJ,0*75
+",118,1
+Tue Jul 22 2025,21:12:03,047bbd223000c0032b07df75d5286b74120800c01c,518998156,Position report (Scheduled),"Lat: -17.7687° Lon: 177.172° Speed: 0 knts Course: 293.2° Status: Under way using engine","!AIVDM,1,1,,,17fu8S00h0<c1uummBQcM1880<0L,0*53
+",133,1
+Tue Jul 22 2025,21:12:14,487a125674000032b19ab75d4ead0b0ff9a5ce0006,512005533,Standard Class B equipment position report,"Lat: -17.7704° Lon: 177.188° Speed: 0 knts Course: 17.6°","!AIVDM,1,1,,,B7`BEW@003:iVcMMCbl;3wVUkP06,0*3b
+",533,1
+Tue Jul 22 2025,21:12:20,4877f7c1380001b2b123175d42a777dffa85de0006,503181390,Standard Class B equipment position report,"Lat: -17.7755° Lon: 177.181° Speed: 0.1 knts Course: 191.7°","!AIVDM,1,1,,,B7OohCP00K:i8iMM@bMoowb5oP06,0*76
+",763,1
+Tue Jul 22 2025,21:12:25,047bbd223000c0032b07df75d5286b74123400c01c,518998156,Position report (Scheduled),"Lat: -17.7687° Lon: 177.172° Speed: 0 knts Course: 293.2° Status: Under way using engine","!AIVDM,1,1,,,17fu8S00h0<c1uummBQcM18l0<0L,0*07
+",951,1
+Tue Jul 22 2025,21:12:31,607a12602424e4d0252140000000000000000000,512006153,Static data report,"Name: INSPIRE","!AIVDM,1,1,,,H7`BH2@Tq=0U8D0000000000000,2*33
+",1164,1
+Tue Jul 22 2025,21:12:36,487a127a4c000232b129475d44cadd9ffc874e0006,512007827,Standard Class B equipment position report,"Lat: -17.7746° Lon: 177.182° Speed: 0.2 knts Course: 354.5°","!AIVDM,1,1,,,B7`BNTh00S:i:DMMA<cMWwj7CP06,0*07
+",1371,1
+Tue Jul 22 2025,21:12:40,604052fae05013413873e0c80000000000000000,269795000,Static data report,"Name: TAMANGO 2","!AIVDM,1,1,,,H41Bvf1@4l4pLv3800000000000,2*16
+",1513,1
+Tue Jul 22 2025,21:12:43,607a126025244d25042c739a345cb0c770301c3100,512006153,Static data report,"Type: Vessel - Sailing Vendor ID: SRTDKGN Callsign: ZME2017","!AIVDM,1,1,,,H7`BH2DTCBD4;7>J=5jhio0h7340,0*0d
+",1615,1
+Tue Jul 22 2025,21:12:45,047bbd22300080032b07def5d5287b74125a0008aa,518998156,Position report (Scheduled),"Lat: -17.7687° Lon: 177.172° Speed: 0 knts Course: 293.2° Status: Under way using engine","!AIVDM,1,1,,,17fu8S00P0<c1usmmBQsM19J00Rb,0*4e
+",1693,1
+Tue Jul 22 2025,21:12:57,483c850ac00000b2b19d5f5d49c9a60fff25de0006,253838000,Standard Class B equipment position report,"Lat: -17.7725° Lon: 177.188° Speed: 0 knts Course: 265.6°","!AIVDM,1,1,,,B3j52d000;:iWEuMBLVV3wtUoP06,0*3f
+",2151,1
+Tue Jul 22 2025,21:13:33,483e456af80000b2b15a3f5d48c00b992401c9583a,261184190,Standard Class B equipment position report,"Lat: -17.7729° Lon: 177.184° Speed: 0 knts Course: 18.5°","!AIVDM,1,1,,,B3q5JgP00;:iFSuMB<0;VB@1jEPr,0*77
+",1238,1
+Tue Jul 22 2025,21:13:35,4850ae1eec0001b2b1a9c75d4b71e10ffc61d9456a,338397115,Standard Class B equipment position report,"Lat: -17.7718° Lon: 177.188° Speed: 0.1 knts Course: 360°","!AIVDM,1,1,,,B52f7fh00K:ibLMMBo7Q3wiQnDEb,0*71
+",1327,1
+Tue Jul 22 2025,21:13:37,604052fae1245c400401cdc8099cf1c390402030c4,269795000,Static data report,"Type: Vessel - Sailing Vendor ID: WD@D@\7 Callsign: HBY3109","!AIVDM,1,1,,,H41Bvf4TG4040Lo82Ikihq108334,0*29
+",1415,1
+Tue Jul 22 2025,21:13:37,487a12a4dc0000b2b192c75d4aa8e10ff8c5de0006,512010551,Standard Class B equipment position report,"Lat: -17.7721° Lon: 177.187° Speed: 0 knts Course: 360°","!AIVDM,1,1,,,B7`Ba=h00;:iTdMMBbSQ3wS5oP06,0*65
+",1420,1
+Tue Jul 22 2025,21:13:39,484052fae0000132b134075d45d6e10ffce1c9253a,269795000,Standard Class B equipment position report,"Lat: -17.7742° Lon: 177.182° Speed: 0.1 knts Course: 360°","!AIVDM,1,1,,,B41Bvf000C:i=0MMAMKQ3wkQjBDr,0*29
+",1482,1
+Tue Jul 22 2025,21:13:43,6050ae1eec0cf1042573cd40c140000000000000,338397115,Static data report,"Name: CODDIWOMPLE","!AIVDM,1,1,,,H52f7fh<t@@ULtm0hD000000000,2*11
+",1637,1
+Tue Jul 22 2025,21:14:07,4877f05e200001b2b190475d4d60e10ff8e5de0006,503060360,Standard Class B equipment position report,"Lat: -17.7709° Lon: 177.187° Speed: 0.1 knts Course: 360°","!AIVDM,1,1,,,B7OhGR000K:iT4MMCF3Q3wSUoP06,0*74
+",287,1
+Tue Jul 22 2025,21:14:15,487a128ba8000132b1bdc75d4f30132ff9e54e0006,512008938,Standard Class B equipment position report,"Lat: -17.7702° Lon: 177.189° Speed: 0.1 knts Course: 30.6°","!AIVDM,1,1,,,B7`BRrP00C:igLMMCk0C;wWUCP06,0*7b
+",568,1
+Tue Jul 22 2025,21:14:26,607a12a76c50580b24e1c1000000000000000000,512010715,Static data report,"Name: TE KINGA","!AIVDM,1,1,,,H7`Bani@F0dTpL4000000000000,2*50
+",980,1
+Tue Jul 22 2025,21:14:26,607a12a76d2500000000001a350e75df9000000000,512010715,Static data report,"Type: Vessel - Pleasure craft Vendor ID:  Callsign: ZMP9579","!AIVDM,1,1,,,H7`BanlU0000000J=@qmoq000000,0*09
+",1007,1
+Tue Jul 22 2025,21:14:40,6050ae1eed244d2508b2a7800000000000301820bc,338397115,Static data report,"Type: Vessel - Sailing Vendor ID: SRTH,*^ Callsign: ","!AIVDM,1,1,,,H52f7flTCBD8dbN00000000h622t,0*38
+",1501,1
+Tue Jul 22 2025,21:14:49,603808607434910e24721480248515a140000000,235018269,Static data report,"Name: MIDNIGHT BREEZE","!AIVDM,1,1,,,H3P8H7@lT@pTLQB098DE`D00000,2*6e
+",1869,1
+Tue Jul 22 2025,21:14:56,4857d67e800000b2b17d9f5d4bb15cdfff05de0006,368418720,Standard Class B equipment position report,"Lat: -17.7717° Lon: 177.186° Speed: 0 knts Course: 148.5°","!AIVDM,1,1,,,B5OFO`000;:iOIuMBs5Lowt5oP06,0*78
+",2121,1
+Tue Jul 22 2025,21:15:01,4877f7bc880001b2b15a675d5915e10ff825de0006,503181090,Standard Class B equipment position report,"Lat: -17.7659° Lon: 177.184° Speed: 0.1 knts Course: 360°","!AIVDM,1,1,,,B7Oog8P00K:iFVMMFAGQ3wPUoP06,0*5c
+",64,1
+Tue Jul 22 2025,21:15:06,4838086074000132b194475d491ae10ff8c1c9502a,235018269,Standard Class B equipment position report,"Lat: -17.7728° Lon: 177.187° Speed: 0.1 knts Course: 360°","!AIVDM,1,1,,,B3P8H7@00C:iU4MMBAcQ3wS1jE0b,0*5a
+",233,1
+Tue Jul 22 2025,21:15:12,487a126024000232b179df5d4a777f7ff985de0006,512006153,Standard Class B equipment position report,"Lat: -17.7722° Lon: 177.186° Speed: 0.2 knts Course: 203.9°","!AIVDM,1,1,,,B7`BH2@00S:iNMuMBWMwOwV5oP06,0*7c
+",461,1
+Tue Jul 22 2025,21:15:17,4877f04ed00006b2b141f75d4499752ffa25de0006,503059380,Standard Class B equipment position report,"Lat: -17.7747° Lon: 177.183° Speed: 0.6 knts Course: 187.4°","!AIVDM,1,1,,,B7OhCe001c:i@OMMA9Um;w`UoP06,0*1d
+",671,1
+Tue Jul 22 2025,21:15:31,607a12614848854d8033c33c0000000000000000,512006226,Static data report,"Name: RHUM COCO","!AIVDM,1,1,,,H7`BHDQ8QDn0<t<t00000000000,2*26
+",1193,1
+Tue Jul 22 2025,21:15:41,603e456af83855e02c1505000000000000000000,261184190,Static data report,"Name: NEW KATE","!AIVDM,1,1,,,H3q5JgPpEN0d5@D000000000000,2*39
+",1553,1
+Tue Jul 22 2025,21:15:42,603e456af9255934140873534b4c79c000401c308c,261184190,Static data report,"Type: Vessel - Pleasure craft Vendor ID: VSPTBGM Callsign: SR4190","!AIVDM,1,1,,,H3q5JgTUFC@D27=CBliqh010732<,0*6b
+",1577,1
+Tue Jul 22 2025,21:15:43,607a126149243960c4928a5a345cb4c33050104100,512006226,Static data report,"Type: Vessel - Sailing Vendor ID: NVCD$() Callsign: ZME2403","!AIVDM,1,1,,,H7`BHDTT>F34T`aJ=5jlhk1@4440,0*2e
+",1642,1
+Tue Jul 22 2025,21:15:44,047bbd22303fc0032b07ebf5d52a5b74125a01401c,518998156,Position report (Scheduled),"Lat: -17.7687° Lon: 177.172° Speed: 0 knts Course: 293.2° Status: Under way using engine","!AIVDM,1,1,,,17fu8S0wh0<c1vgmmBaKM19J0D0L,0*16
+",1661,1
+Tue Jul 22 2025,21:15:46,6038086075244cd504d2164d15923300003818403c,235018269,Static data report,"Type: Vessel - Sailing Vendor ID: SMTD4!Y Callsign: MEYH3","!AIVDM,1,1,,,H3P8H7DTC=D4lQI=5I8k000p640t,0*75
+",1741,1
+Tue Jul 22 2025,21:15:53,487a126148000232b147075d45d8838ffea5de0006,512006226,Standard Class B equipment position report,"Lat: -17.7741° Lon: 177.183° Speed: 0.2 knts Course: 210.4°","!AIVDM,1,1,,,B7`BHDP00S:iAhMMAMR3SwrUoP06,0*12
+",2010,1
+Tue Jul 22 2025,21:16:04,047bbd22300080032b07eef5d52a9b74120a00c01c,518998156,Position report (Scheduled),"Lat: -17.7687° Lon: 177.172° Speed: 0 knts Course: 293.2° Status: Under way using engine","!AIVDM,1,1,,,17fu8S00P0<c1vsmmBbKM18:0<0L,0*77
+",162,1
+Tue Jul 22 2025,21:16:11,4877f7a3b003ff32b04e275d4f02e100a961c955fa,503179500,Standard Class B equipment position report,"Lat: -17.7702° Lon: 177.17° Speed: 102.3 knts Course: 360°","!AIVDM,1,1,,,B7Oo`s03wk:hCRMMCh;Q0:UQjEGr,0*28
+",436,1
+Tue Jul 22 2025,21:16:15,487a12535c000132b1a7cf5d4d4ed46ff9e5ce0006,512005335,Standard Class B equipment position report,"Lat: -17.771° Lon: 177.188° Speed: 0.1 knts Course: 339.8°","!AIVDM,1,1,,,B7`BDmh00C:iatuMCDsDKwWUkP06,0*7f
+",583,1
+Tue Jul 22 2025,21:16:24,047bbd22303fc0032b07eef5d52aab741230018387,518998156,Position report (Scheduled),"Lat: -17.7687° Lon: 177.172° Speed: 0 knts Course: 293.2° Status: Under way using engine","!AIVDM,1,1,,,17fu8S0wh0<c1vsmmBbcM18h0H>7,0*73
+",903,1
+Tue Jul 22 2025,21:16:39,60781a24804ee5ae2c9505000000000000000000,503744800,Static data report,"Name: S.V.KITE","!AIVDM,1,1,,,H7PJ981>qJpdU@D000000000000,2*70
+",1461,1
+Tue Jul 22 2025,21:16:44,047bbd22300040032b07eaf5d52a6b74125a01067d,518998156,Position report (Scheduled),"Lat: -17.7687° Lon: 177.172° Speed: 0 knts Course: 293.2° Status: Under way using engine","!AIVDM,1,1,,,17fu8S00@0<c1vcmmBacM19J0@Iu,0*11
+",1661,1
+Tue Jul 22 2025,21:16:50,487a12119c000032b0ffef5d3a7abe46e641c9566a,512001127,Standard Class B equipment position report,"Lat: -17.779° Lon: 177.179° Speed: 0 knts Course: 304.4°","!AIVDM,1,1,,,B7`B4Ih003:hwvuM>WbvAfI1jEIb,0*5b
+",1894,1
+Tue Jul 22 2025,21:16:51,603750e1d814c653140000000000000000000000,232011894,Static data report,"Name: ELYSE","!AIVDM,1,1,,,H3M@pMPDiU<D000000000000000,2*4e
+",1923,1
+Tue Jul 22 2025,21:17:08,48781a2480000032b1172f5d55aae10ff901c94a0a,503744800,Standard Class B equipment position report,"Lat: -17.7674° Lon: 177.181° Speed: 0 knts Course: 360°","!AIVDM,1,1,,,B7PJ980003:i5juMEJcQ3wT1jD`:,0*56
+",325,1
+Tue Jul 22 2025,21:17:24,487a12a76c000032b1829f5d4a7c35cffb05ce0006,512010715,Standard Class B equipment position report,"Lat: -17.7722° Lon: 177.186° Speed: 0 knts Course: 86°","!AIVDM,1,1,,,B7`Banh003:iPauMBWhmkwd5kP06,0*5e
+",935,1
+Tue Jul 22 2025,21:17:35,60781a2481244d25094a3bc1143c7344000000003c,503744800,Static data report,"Type: Vessel - Sailing Vendor ID: SRTIR#/ Callsign: AEC13Q","!AIVDM,1,1,,,H7PJ984TCBD9BSg153ikA000000t,0*69
+",1331,1
+Tue Jul 22 2025,21:17:41,487a124738000132b158875d4721120ffd25ce0006,512004558,Standard Class B equipment position report,"Lat: -17.7736° Lon: 177.184° Speed: 0.1 knts Course: 28.8°","!AIVDM,1,1,,,B7`BAkP00C:iF8MMAj4B3wlUkP06,0*39
+",1573,1
+Tue Jul 22 2025,21:17:47,483750e1d80001b2b183e75d47b0e10ffde1d948ba,232011894,Standard Class B equipment position report,"Lat: -17.7734° Lon: 177.186° Speed: 0.1 knts Course: 360°","!AIVDM,1,1,,,B3M@pMP00K:iPvMMAs3Q3woQnDRr,0*68
+",1778,1
+Tue Jul 22 2025,21:17:47,603750e1d9244cd505e6524d0c167300004020307c,232011894,Static data report,"Type: Vessel - Sailing Vendor ID: SMTE9%I Callsign: MCAY3","!AIVDM,1,1,,,H3M@pMTTC=D5qU9=31Ik0010831t,0*6c
+",1787,1
+Tue Jul 22 2025,21:18:02,0c7bbd39a84000032b0b6ff5d525570a1376014b0a,518999658,Position report (Interrogated),"Lat: -17.7688° Lon: 177.175° Speed: 0 knts Course: 180.2° Status: At anchor","!AIVDM,1,1,,,37fu>JQ000<c2nwmmBEG2Q=n0Dd:,0*4b
+",75,1
+Tue Jul 22 2025,21:18:14,487a125674000032b19aaf5d4eae0b0ff9c5ce0006,512005533,Standard Class B equipment position report,"Lat: -17.7704° Lon: 177.188° Speed: 0 knts Course: 17.6°","!AIVDM,1,1,,,B7`BEW@003:iVbuMCbp;3wW5kP06,0*7f
+",543,1
+Tue Jul 22 2025,21:18:21,4877f7c1380002b2b1236f5d42c7782ffa85de0006,503181390,Standard Class B equipment position report,"Lat: -17.7755° Lon: 177.181° Speed: 0.2 knts Course: 192.2°","!AIVDM,1,1,,,B7OohCP00c:i8nuM@dMp;wb5oP06,0*2c
+",791,1
+Tue Jul 22 2025,21:18:24,607a124738341827801481000000000000000000,512004558,Static data report,"Name: MA ' ARA","!AIVDM,1,1,,,H7`BAkPl62N0584000000000000,2*6d
+",899,1
+Tue Jul 22 2025,21:18:24,607a1247392500000000001a355df0cb0078005000,512004558,Static data report,"Type: Vessel - Pleasure craft Vendor ID:  Callsign: ZMU7020","!AIVDM,1,1,,,H7`BAkTU0000000J=Eohjh1p0500,0*52
+",908,1
+Tue Jul 22 2025,21:18:27,603753bd0c4d98086501521c1359000000000000,232058691,Static data report,"Name: SY HYPERGAMY","!AIVDM,1,1,,,H3MCg@i=V0QU0E8L4mT00000000,2*0d
+",1034,1
+Tue Jul 22 2025,21:18:27,603753bd0d255934140b35cd48b2f900002030514c,232058691,Static data report,"Type: Vessel - Pleasure craft Vendor ID: VSPTB3W Callsign: MRKK9","!AIVDM,1,1,,,H3MCg@lUFC@D2kG=B;;q000P<55<,0*7d
+",1044,1
+Tue Jul 22 2025,21:18:37,487a127a4c000032b129475d44bddd9ffca74e0006,512007827,Standard Class B equipment position report,"Lat: -17.7746° Lon: 177.182° Speed: 0 knts Course: 354.5°","!AIVDM,1,1,,,B7`BNTh003:i:DMMA;oMWwjWCP06,0*0c
+",1408,1
+Tue Jul 22 2025,21:18:44,047bbd22303fc0032b07ec75d52a9b74125a00867d,518998156,Position report (Scheduled),"Lat: -17.7687° Lon: 177.172° Speed: 0 knts Course: 293.2° Status: Under way using engine","!AIVDM,1,1,,,17fu8S0wh0<c1vimmBbKM19J08Iu,0*27
+",1661,1
+Tue Jul 22 2025,21:18:56,483c850ac00000b2b19d8f5d49c8a60fff05de0006,253838000,Standard Class B equipment position report,"Lat: -17.7725° Lon: 177.188° Speed: 0 knts Course: 265.6°","!AIVDM,1,1,,,B3j52d000;:iWHuMBLRV3wt5oP06,0*56
+",2135,1
+Tue Jul 22 2025,21:19:04,047bbd223000c0032b07eef5d52acb74120a0008af,518998156,Position report (Scheduled),"Lat: -17.7687° Lon: 177.172° Speed: 0 knts Course: 293.2° Status: Under way using engine","!AIVDM,1,1,,,17fu8S00h0<c1vsmmBc;M18:00Rg,0*7b
+",162,1
+Tue Jul 22 2025,21:19:16,607a1256745c124e04e240000000000000000000,512005533,Static data report,"Name: WAINANI","!AIVDM,1,1,,,H7`BEWAL4Tp4pT0000000000000,2*17
+",616,1
+Tue Jul 22 2025,21:19:19,607a125675241c148d24e01a346cf6e73048184040,512005533,Static data report,"Type: Vessel - Sailing Vendor ID: GARMIN Callsign: ZMF3693","!AIVDM,1,1,,,H7`BEWDT71B=9>0J=6knqk186410,0*22
+",725,1
+Tue Jul 22 2025,21:19:21,607a128ba808c54580f0c504e4c0000000000000,512008938,Static data report,"Name: BLUE OCEANS","!AIVDM,1,1,,,H7`BRrP8iDF0t<D4q<000000000,2*6e
+",805,1
+Tue Jul 22 2025,21:19:21,607a128ba925593400526e9a357d34c30068005000,512008938,Static data report,"Type: Vessel - Pleasure craft Vendor ID: VSP@T&: Callsign: ZMW4400","!AIVDM,1,1,,,H7`BRrTUFC@0DVrJ=Gllhh1`0500,0*6a
+",814,1
+Tue Jul 22 2025,21:19:23,484052fae0000032b134675d45d7e10ffac1c96f5a,269795000,Standard Class B equipment position report,"Lat: -17.7741° Lon: 177.182° Speed: 0 knts Course: 360°","!AIVDM,1,1,,,B41Bvf0003:i=6MMAMOQ3wc1jFuJ,0*3e
+",864,1
+Tue Jul 22 2025,21:19:31,6077f05e204d5405482820820820820820820820,503060360,Static data report,"Name: SUPERB","!AIVDM,1,1,,,H7OhGR1=E0E8:22222222222220,2*14
+",1182,1
+Tue Jul 22 2025,21:19:32,4850ae1eec0001b2b1aa375d4b76e10ffc01d9528a,338397115,Standard Class B equipment position report,"Lat: -17.7717° Lon: 177.188° Speed: 0.1 knts Course: 360°","!AIVDM,1,1,,,B52f7fh00K:ibSMMBoKQ3wh1nE::,0*55
+",1224,1
+Tue Jul 22 2025,21:19:37,6077f05e212404d0c00000135501520a00500811bc,503060360,Static data report,"Type: Vessel - Sailing Vendor ID: AMC Callsign: SUPERB","!AIVDM,1,1,,,H7OhGR4T1=30000CE@5B2P1@216t,0*16
+",1396,1
+Tue Jul 22 2025,21:19:38,483e456af80000b2b15a3f5d48c00b9904c1c94a8a,261184190,Standard Class B equipment position report,"Lat: -17.7729° Lon: 177.184° Speed: 0 knts Course: 18.5°","!AIVDM,1,1,,,B3q5JgP00;:iFSuMB<0;V@C1jDb:,0*0d
+",1435,1
+Tue Jul 22 2025,21:19:39,487a12a4dc0000b2b192af5d4a92e10ff8e5de0006,512010551,Standard Class B equipment position report,"Lat: -17.7721° Lon: 177.187° Speed: 0 knts Course: 360°","!AIVDM,1,1,,,B7`Ba=h00;:iTbuMBa;Q3wSUoP06,0*50
+",1482,1
+Tue Jul 22 2025,21:19:44,047bbd22300080032b07e8f5d52a6b74125a00524c,518998156,Position report (Scheduled),"Lat: -17.7687° Lon: 177.172° Speed: 0 knts Course: 293.2° Status: Under way using engine","!AIVDM,1,1,,,17fu8S00P0<c1vSmmBacM19J059<,0*7d
+",1660,1
+Tue Jul 22 2025,21:20:08,4877f05e200001b2b18fe75d4d3fe10ff905de0006,503060360,Standard Class B equipment position report,"Lat: -17.771° Lon: 177.187° Speed: 0.1 knts Course: 360°","!AIVDM,1,1,,,B7OhGR000K:iSvMMCCwQ3wT5oP06,0*17
+",330,1
+Tue Jul 22 2025,21:20:10,6077f7bc884c13148132012c54a0249820820820,503181090,Static data report,"Name: SALT SHAKER II","!AIVDM,1,1,,,H7Oog8Q<4iB1<P4dE:0TV222220,2*55
+",384,1
+Tue Jul 22 2025,21:20:14,6077f7bc892404d0c0000038db3d71d200501450bc,503181090,Static data report,"Type: Vessel - Sailing Vendor ID: AMC Callsign: 863514","!AIVDM,1,1,,,H7Oog8TT1=30000pnkmilP1@552t,0*22
+",552,1
+Tue Jul 22 2025,21:20:15,487a128ba8000132b1bdc75d4f13132ff9e54e0006,512008938,Standard Class B equipment position report,"Lat: -17.7702° Lon: 177.189° Speed: 0.1 knts Course: 30.6°","!AIVDM,1,1,,,B7`BRrP00C:igLMMCi<C;wWUCP06,0*75
+",598,1
+Tue Jul 22 2025,21:20:24,047bbd22303f80032b07e775d52a1b741230008387,518998156,Position report (Scheduled),"Lat: -17.7687° Lon: 177.172° Speed: 0 knts Course: 293.2° Status: Under way using engine","!AIVDM,1,1,,,17fu8S0wP0<c1vMmmB`KM18h08>7,0*2f
+",902,1
+Tue Jul 22 2025,21:20:25,6057d67e80641341c40000000000000000000000,368418720,Static data report,"Name: YAMA1","!AIVDM,1,1,,,H5OFO`1T4l74000000000000000,2*30
+",970,1
+Tue Jul 22 2025,21:20:35,607a12119c485384152000000000000000000000,512001127,Static data report,"Name: RENDER","!AIVDM,1,1,,,H7`B4Ii8Dp@E800000000000000,2*1d
+",1317,1
+Tue Jul 22 2025,21:20:36,6057d67e81244d25057e2bd7111cf6d37048103100,368418720,Static data report,"Type: Vessel - Sailing Vendor ID: SRTE_"/ Callsign: WDQ3647","!AIVDM,1,1,,,H5OFO`4TCBD5ORgG4Aknlo184340,0*68
+",1355,1
+Tue Jul 22 2025,21:20:36,6077f04ed04cc2504054998076504d9000000000,503059380,Static data report,"Name: SLIPPERY GYPSY","!AIVDM,1,1,,,H7OhCe1<hU10E9V0MU1=T000000,2*70
+",1358,1
+Tue Jul 22 2025,21:20:40,6077f7c138201410640000000000000000000000,503181390,Static data report,"Name: HAPPY","!AIVDM,1,1,,,H7OohCPP511T000000000000000,2*40
+",1520,1
+Tue Jul 22 2025,21:20:44,047bbd22303f80032b07e975d52a3b74125a0008b2,518998156,Position report (Scheduled),"Lat: -17.7687° Lon: 177.172° Speed: 0 knts Course: 293.2° Status: Under way using engine","!AIVDM,1,1,,,17fu8S0wP0<c1vUmmB`sM19J00Rj,0*15
+",1660,1
+Tue Jul 22 2025,21:20:44,147bbd2231003d963c5d55d31cf43494c320914683182082082082082025128405145ecd0080d5532c552082082082082082082080,518998156,Ship static and voyage related data,"IMO: 1009039 Callsign: E5U4134 Name: MISCHIEF 1 Type: Vessel - Pleasure craft Destination: MUSKET","!AIVDM,2,1,1,,57fu8S40?IHtGEGC7?@lU<<PTDJ362222222220U4`@555s=083EDjiE88888,0*65
+!AIVDM,2,2,1,,8888888880,2*5c
+",1671,2
+Tue Jul 22 2025,21:20:46,6077f04ed1243960c6f98ed31f8c40000000000000,503059380,Static data report,"Type: Vessel - Sailing Vendor ID: NVCF>X; Callsign: SG81","!AIVDM,1,1,,,H7OhCe4T>F36vHsC7pi000000000,0*14
+",1739,1
+Tue Jul 22 2025,21:20:49,607a12535c34f3ce1894c8000000000000000000,512005335,Static data report,"Name: MOONFISH","!AIVDM,1,1,,,H7`BDmhlttpHU<P000000000000,2*14
+",1848,1
+Tue Jul 22 2025,21:20:50,604b5871b010164248504b80f0c504e140000000,316021868,Static data report,"Name: DAYBREAK OCEANE","!AIVDM,1,1,,,H4eHLK0@5T98D4f0t<D4pD00000,2*39
+",1904,1
+Tue Jul 22 2025,21:20:51,6077f7c139243960c4f34702515c354400381c4100,503181390,Static data report,"Type: Vessel - Sailing Vendor ID: NVCD<4\ Callsign: BTU05Q","!AIVDM,1,1,,,H7OohCTT>F34tlL2DEhmA00p7440,0*38
+",1913,1
+Tue Jul 22 2025,21:20:56,4857d67e800000b2b17ccf5d4b8b5cdfff05de0006,368418720,Standard Class B equipment position report,"Lat: -17.7717° Lon: 177.186° Speed: 0 knts Course: 148.5°","!AIVDM,1,1,,,B5OFO`000;:iO<uMBpeLowt5oP06,0*5e
+",2123,1
+Tue Jul 22 2025,21:21:00,607a12535d254d2505387b1a347cf2c33000000000,512005335,Static data report,"Type: Vessel - Pleasure craft Vendor ID: SRTENG, Callsign: ZMG3203","!AIVDM,1,1,,,H7`BDmlUCBD5>7dJ=7kjhk000000,0*75
+",15,1
+Tue Jul 22 2025,21:21:01,4877f7bc880000b2b15a275d58f3e10ff825de0006,503181090,Standard Class B equipment position report,"Lat: -17.766° Lon: 177.184° Speed: 0 knts Course: 360°","!AIVDM,1,1,,,B7Oog8P00;:iFRMMF??Q3wPUoP06,0*2e
+",52,1
+Tue Jul 22 2025,21:21:01,604b5871b1244cd506307f5617004b040048143080,316021868,Static data report,"Type: Vessel - Sailing Vendor ID: SMTFLG= Callsign: VE0AKA","!AIVDM,1,1,,,H4eHLK4TC=D6<7uF5h1;10185320,0*3e
+",55,1
+Tue Jul 22 2025,21:21:03,047bbd22303fc0032b07ec75d52a4b741208014018,518998156,Position report (Scheduled),"Lat: -17.7687° Lon: 177.172° Speed: 0 knts Course: 293.2° Status: Under way using engine","!AIVDM,1,1,,,17fu8S0wh0<c1vimmBa;M1880D0H,0*1f
+",134,1
+Tue Jul 22 2025,21:21:08,4838086074000132b1940f5d4910e10ff8e1c94e9a,235018269,Standard Class B equipment position report,"Lat: -17.7728° Lon: 177.187° Speed: 0.1 knts Course: 360°","!AIVDM,1,1,,,B3P8H7@00C:iU0uMBA3Q3wSQjDrJ,0*3d
+",301,1
+Tue Jul 22 2025,21:21:11,487a1260240000b2b17a2f5d4a77af2ff965de0006,512006153,Standard Class B equipment position report,"Lat: -17.7722° Lon: 177.186° Speed: 0 knts Course: 280.2°","!AIVDM,1,1,,,B7`BH2@00;:iNRuMBWNg;wUUoP06,0*0f
+",434,1
+Tue Jul 22 2025,21:21:16,4877f04ed00001b2b142bf5d44e05e3ffa05de0006,503059380,Standard Class B equipment position report,"Lat: -17.7746° Lon: 177.183° Speed: 0.1 knts Course: 150.7°","!AIVDM,1,1,,,B7OhCe000K:i@cuMA>1N?w`5oP06,0*04
+",607,1
+Tue Jul 22 2025,21:21:24,047bbd22303f80032b07eef5d52a5b741230005254,518998156,Position report (Scheduled),"Lat: -17.7687° Lon: 177.172° Speed: 0 knts Course: 293.2° Status: Under way using engine","!AIVDM,1,1,,,17fu8S0wP0<c1vsmmBaKM18h059D,0*69
+",902,1
