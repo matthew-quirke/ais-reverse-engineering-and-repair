@@ -121,7 +121,7 @@ Investigated low-cost AIS transceivers:
  
 ![Non-Compliant AIS Devices](images/hardware/si4438-RX-pins.png)
 
-*Image: credit to Adrain Studer for this image - arrow shows RX pins are disconnected
+*Image: Arrow shows RX pins are disconnected from STM32 
 
 https://github.com/astuder
 
