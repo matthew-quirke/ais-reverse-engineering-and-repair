@@ -123,6 +123,8 @@ Investigated low-cost AIS transceivers:
 
 ## VESPA WatchMate Analysis & Modification
 
+![VESPA WatchMate Analysis](images/hardware/vesper-watchmate-ais.jpg)
+
 ### Work Performed
 - Power system analysis
 - RF behaviour investigation
