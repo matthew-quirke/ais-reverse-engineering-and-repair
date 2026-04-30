@@ -79,7 +79,7 @@ Developed a system to extend AIS beyond VHF limitations.
 ### Outcome
 Portable AIS relay system independent of RF range.
 
----
+---https://github.com/matthew-quirke/ais-reverse-engineering-and-repair/blob/main/README.md
 
 ## SDR-Based AIS Reception & Relay
 
@@ -91,6 +91,8 @@ Portable AIS relay system independent of RF range.
 ### Result
 - Combined RF + IP AIS architecture
 - Real-world validation of extended AIS distribution
+
+![VHF AIS capture via SDR](images/hardware/rtl-sdr-rx.jpg)
 
 ---
 
