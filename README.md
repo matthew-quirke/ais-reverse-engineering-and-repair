@@ -63,7 +63,7 @@ Accurate AIS transmission requires:
 Developed a system to extend AIS beyond VHF limitations.
 
 ### Mobile AIS System
-- Android (F-Droid + Termux + Termux-API)
+- Android (F-Droid + Termux + Termux-API) mobile phone AIS
 - GPS via `termux-location`
 - AIS generation using `pyAIS`
 - NMEA 0183 formatting (`AIVDM` / `AIVDO`)
