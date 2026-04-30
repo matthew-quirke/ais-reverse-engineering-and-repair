@@ -100,6 +100,8 @@ Portable AIS relay system independent of RF range.
 
 ### Non-Compliant AIS Devices
 
+![Non-Compliant AIS Devices](images/hardware/RS-109M-AIS-Net-Locator-buoy.jpeg)
+
 Investigated low-cost AIS transceivers:
 
 - Attempted modification of fishing net AIS device into a transponder
@@ -113,6 +115,8 @@ Investigated low-cost AIS transceivers:
 - Minimal or absent:
   - Receive/sensing circuitry
   - Proper TDMA mechanisms
+ 
+![Non-Compliant AIS Devices](images/hardware/si4438-RX-pins.png)
 
 ### Impact
 - Increased collision risk
