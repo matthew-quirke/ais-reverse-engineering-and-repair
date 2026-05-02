@@ -5,11 +5,15 @@ import socket
 import time
 from pyais.encode import encode_dict
 
-MMSI = 512005521
-#HOST = "127.0.0.1"
-#PORT = 10110
-HOST = "5.9.207.224"
-PORT = 8247
+MMSI = 512005522
+#MMSI = 512005521
+
+HOST = "10.16.174.9"
+PORT = 10110
+
+# HOST = "5.9.207.224"
+# PORT = 8247
+
 
 def read_route(filename):
     points = []
@@ -100,8 +104,8 @@ def main():
                 print(nmea)
                 send_nmea(nmea)
 
-            time.sleep(sleep_seconds)
-            # time.sleep(1)
+            #time.sleep(sleep_seconds)
+            time.sleep(1)
 
         if not args.loop:
             break

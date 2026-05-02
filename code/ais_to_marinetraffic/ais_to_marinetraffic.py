@@ -5,10 +5,10 @@ import subprocess
 import time
 from pyais.encode import encode_dict
 
-MMSI = 123456789          # your MMSI only
-HOST = "your.marinetraffic.host"
-PORT = 12345              # your MarineTraffic station port
-INTERVAL = 60             # seconds
+MMSI = 512005521          # your MMSI only
+HOST = "10.80.188.9"
+PORT = 10110              # your MarineTraffic station port
+INTERVAL = 1             # seconds
 
 def get_location():
     raw = subprocess.check_output(
@@ -50,8 +50,7 @@ while True:
 
         sentences = encode_dict(msg)
 
-        for sentence in sentences:
-            nmea = sentence.as_nmea()
+        for nmea in sentences:
             print(nmea)
             send_nmea(nmea)
 
