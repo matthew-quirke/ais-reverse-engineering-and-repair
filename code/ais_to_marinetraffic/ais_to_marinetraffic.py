@@ -5,8 +5,8 @@ import subprocess
 import time
 from pyais.encode import encode_dict
 
-MMSI = 512005521          # your MMSI only
-HOST = "10.80.188.9"
+MMSI = 512009999          # your MMSI only
+HOST = "10.80.188.xx"
 PORT = 10110              # your MarineTraffic station port
 INTERVAL = 1             # seconds
 
