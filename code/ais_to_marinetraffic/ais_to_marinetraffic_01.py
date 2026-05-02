@@ -6,8 +6,8 @@ import subprocess
 import time
 from pyais.encode import encode_dict
 
-MMSI = 512005521
-HOST = "5.9.207.224"
+MMSI = 512009999
+HOST = "5.9.207.xx"
 PORT = 8247
 
 # Class B CS style:
